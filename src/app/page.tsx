@@ -3,7 +3,7 @@ export default function Home() {
     <main style={{ padding: 40 }}>
       <h1>{process.env.APP_NAME}</h1>
 
-      <p>Hello World, Boss Toni 👑</p>
+      <p>Hello World, Boss Toni Haryanto 👑</p>
     </main>
   );
 }
